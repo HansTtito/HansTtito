@@ -2,6 +2,7 @@
 
 [![Kevin's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=HansTtito&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/HansTtito/github-readme-stats#gh-dark-mode-only)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansTtito&langs_count=8)
 <!--
 **HansTtito/HansTtito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
