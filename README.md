@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<img  alt = 'my stats' align = 'left' width = '45%' src = 'https://github-readme-stats.vercel.app/api?username=HansTtito&show_icons=true&theme=dark#gh-dark-mode-only'/>
-<img alt='my top langs' align='right' width='45%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=HansTtito&langs_count=10&layout=compact&theme=dark'>
+<img alt='my stats' align='left' width='45%' 
+src='https://github-readme-stats-tau-wheat-12.vercel.app/api?username=HansTtito&show_icons=true&theme=dark'/>
+
+<img alt='my top langs' align='right' width='45%' 
+src='https://github-readme-stats-tau-wheat-12.vercel.app/api/top-langs/?username=HansTtito&langs_count=10&layout=compact&theme=dark'/>
 
 
 <!--
